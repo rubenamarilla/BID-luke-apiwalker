@@ -1,0 +1,7 @@
+
+.form1 {
+    display: flex;
+}
+.form1 * {
+    margin: 10px;
+}
